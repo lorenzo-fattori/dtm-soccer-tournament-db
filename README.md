@@ -25,7 +25,7 @@ soccer-tournament-dtm
 │   ├── insert_sample_data.sql   # Sample data insertion
 │   └── queries.sql              # Example queries
 └── diagrams                     # ER diagram of the database
-    └── er_schema.png
+    ├── er_schema.png
     └── er_schema.er
 ```
 
