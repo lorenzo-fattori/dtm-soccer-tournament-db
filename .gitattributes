@@ -1,1 +1,8 @@
-sql/* linguist-language=SQL
+# Tutti i file SQL sono considerati SQL
+*.sql linguist-language=SQL
+
+# Ignora file non codice
+*.pdf linguist-vendored
+*.png linguist-vendored
+*.er linguist-vendored
+*.md linguist-vendored
