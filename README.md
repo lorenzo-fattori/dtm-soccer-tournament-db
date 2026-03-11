@@ -34,17 +34,19 @@ soccer-tournament-dtm
 ## Setup Instructions
 
 1. **Create the database**
-
    ```sql
    CREATE DATABASE IF NOT EXISTS soccer_tournament;
    USE soccer_tournament;
    ```
 
-2. **Create tables** – Run `sql/create_tables.sql`.
+2. **Create tables**  
+   Run `sql/create_tables.sql`.
 
-3. **Insert sample data** – Run `sql/insert_sample_data.sql`.
+4. **Insert sample data**  
+   Run `sql/insert_sample_data.sql`.
 
-4. **Explore queries** – Use `sql/queries.sql` for examples.
+6. **Explore queries**  
+   Use `sql/queries.sql` for examples.
 
 ---
 
