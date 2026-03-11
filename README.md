@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project was developed as part of the **Database Systems** exam for the Master’s Degree in Digital Transformation Management at the University of Bologna (UNIBO). It implements a **relational database** for a soccer tournament, storing information about players, teams, matches, leagues, referees, and contracts. It demonstrates the use of **SQL** for creating tables, inserting data, and running queries to analyze player performance, match history, and referee assignments. 
+This project was developed as part of the **Database Systems** exam for the Master’s Degree in Digital Transformation Management at the University of Bologna. It implements a **relational database** for a soccer tournament, storing information about players, teams, matches, leagues, referees, and contracts. It demonstrates the use of **SQL** for creating tables, inserting data, and running queries to analyze player performance, match history, and referee assignments. 
 
 ---
 
