@@ -2,7 +2,7 @@
 
 **Authors:** Lorenzo Fattori, Federico Tacchi  
 **Course:** Digital Transformation Management – Database Systems  
-**University:** University of Bologna (UNIBO)  
+**University:** University of Bologna  
 
 ---
 
